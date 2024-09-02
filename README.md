@@ -1,6 +1,6 @@
 # Nexxa-Mobile
 Nexxa is a mobile app designed to provide a seamless streaming experience for users. With a focus on relaxation and entertainment, Nexxa offers a curated selection of movies, TV shows, and original content.
-**Nexxa: Revolutionizing Streaming**  
+# Nexxa: Revolutionizing Streaming
 Unlock Endless Entertainment
 Imagine a world where your favorite movies, TV shows, and original content are just a tap away. Welcome to Nexxa, the ultimate streaming experience designed to mesmerize and inspire.
 Features That Will Obsess You
